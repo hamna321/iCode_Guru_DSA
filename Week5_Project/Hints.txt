@@ -1,0 +1,24 @@
+Hints:
+
+1. Order Processing (Stack):
+   - Use a stack for order processing with push and pop operations.
+   - Push customer orders onto the stack.
+   - Process orders in a Last-In-First-Out manner using the pop operation.
+
+2. Inventory Tracking (Arrays):
+   - Create an array for inventory with elements representing ingredients.
+   - Initialize quantities and update during order processing.
+
+3. Staff Scheduling (Binary Search):
+   - Maintain a sorted array of staff availability.
+   - Implement binary search for efficient scheduling during specific shifts.
+
+4. Promotions (Bubble Sort):
+   - Utilise an array for menu items and popularity scores.
+   - Apply bubble sort to organise items based on popularity.
+
+5. Quality Control (Stack):
+   - Ensure freshness using a stack.
+   - Push prepared items onto the stack and periodically discard from the top.
+
+These concise hints aid in implementing key algorithms for McDonald's Order and Inventory Management system functionalities.
